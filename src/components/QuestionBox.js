@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import questions from "../questions";
 import Result from "./Result";
 function QuestionBox() {
